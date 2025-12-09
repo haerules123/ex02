@@ -34,8 +34,8 @@ git push -u origin main
     + 충돌을 해결해야, push가 가능합니다
 
 ```bash
-git pull origin main
 git push -u origin main
+git pull origin main
 ```
 
 https://github.com/Ezenitac-AiService
